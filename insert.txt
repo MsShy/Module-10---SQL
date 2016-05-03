@@ -1,0 +1,35 @@
+//users
+INSERT INTO USERS VALUES ('1','Davis','Julie','times@mail.com','147856');
+INSERT INTO USERS VALUES ('2','Richary','Fedia','rich@mail.com','1478575');
+INSERT INTO USERS VALUES ('3','Treiger','Ilia','ilia54@mail.com','987456');
+INSERT INTO USERS VALUES ('4','Felix','John','joj@mail.com','1466553');
+INSERT INTO USERS VALUES ('5','Delana','Emilie','emi@mail.com','beriz098');
+INSERT INTO USERS VALUES ('6','MInt','Tina','him@mail.com','65433iuy');
+INSERT INTO USERS VALUES ('7','Pustelnikov','Dan','dany@mail.com','65433iuy');
+INSERT INTO USERS VALUES ('8','Stick','Nick','nick32@mail.com','kilyrew21');
+INSERT INTO USERS VALUES ('9','Kartonka','Romka','romario@mail.com','visw321');
+INSERT INTO USERS VALUES ('10','Ninel','Diana','white@mail.com','vcxzas21');
+
+//cookies
+INSERT INTO COOKIES VALUES('1','I wish you luck!');
+INSERT INTO COOKIES VALUES('2','Have a good rest!');
+INSERT INTO COOKIES VALUES('3','Behave yourself .be good!');
+INSERT INTO COOKIES VALUES('4','Success to you in defending your thesis!');
+INSERT INTO COOKIES VALUES('5','May your dreams come true!');
+INSERT INTO COOKIES VALUES('6','Good luck on your business!');
+INSERT INTO COOKIES VALUES('7','Enjoy!!');
+INSERT INTO COOKIES VALUES('8','Lets hope the weather keeps!');
+INSERT INTO COOKIES VALUES('9','Good luck with your exam!');
+INSERT INTO COOKIES VALUES('10','Please, accept my best most heartfelt sincerest wishes!');
+
+//metadata
+INSERT INTO METADATA VALUES ('1','2','3',CURRENT_TIMESTAMP);
+INSERT INTO METADATA VALUES ('2','1','2',CURRENT_TIMESTAMP);
+INSERT INTO METADATA VALUES ('3','3','1',CURRENT_TIMESTAMP);
+INSERT INTO METADATA VALUES ('4','5','4',CURRENT_TIMESTAMP);
+INSERT INTO METADATA VALUES ('5','4','7',CURRENT_TIMESTAMP);
+INSERT INTO METADATA VALUES ('6','7','5',CURRENT_TIMESTAMP);
+INSERT INTO METADATA VALUES ('7','2','6',CURRENT_TIMESTAMP);
+INSERT INTO METADATA VALUES ('8','9','10',CURRENT_TIMESTAMP);
+INSERT INTO METADATA VALUES ('9','10','9',CURRENT_TIMESTAMP);
+INSERT INTO METADATA VALUES ('10','8','2',CURRENT_TIMESTAMP);
